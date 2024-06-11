@@ -1,6 +1,6 @@
 
 # Coffee Production
-https://public.tableau.com/app/profile/dibora.ruth.williams/viz/capstone_17054659159850/Story2
+[https://public.tableau.com/app/profile/yafet.wolde/viz/capstone_yafet_wolde/title#5]
 ## Executive Summary
 
 This project aims to provide an in-depth analysis of the years between 2010-2020 trends in the global coffee market and the evolution of these trends over the past few years. Additionally, the study will explore emerging preferences for specific types of coffee, including specialty blends and sustainable options.
